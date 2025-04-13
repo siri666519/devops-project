@@ -1,0 +1,15 @@
+git add .
+
+git commit -m "commit massage"
+
+git status 
+
+git log
+
+git push origin main
+
+git branch
+
+git checkout branch
+
+
