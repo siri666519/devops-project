@@ -12,4 +12,4 @@ git branch
 
 git checkout branch
 
-
+it is merge from feature/setup-ci to main branch
