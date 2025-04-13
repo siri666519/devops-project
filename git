@@ -1,6 +1,6 @@
 git add .
 
-git commit -m "massage"
+git commit -m "commit massage"
 
 git status 
 
